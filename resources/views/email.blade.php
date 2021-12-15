@@ -1,0 +1,1 @@
+<h1>Login Code: {{$four_digit_code}}</h1>
